@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:23:57Z",
+            "last_commit": "2026-08-18T21:06:24Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141808
+            "stars": 141857
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:23:57Z",
+            "last_commit": "2026-08-18T21:06:24Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141808
+            "stars": 141857
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:16:04Z",
+            "last_commit": "2026-08-18T16:51:45Z",
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32091
+            "stars": 32095
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-14T16:46:52Z",
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7442
+            "stars": 7443
           }
         },
         {
@@ -737,10 +737,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:28:00Z",
+            "last_commit": "2026-08-18T21:28:35Z",
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 36802
+            "stars": 36829
           }
         },
         {
@@ -754,7 +754,7 @@
             "last_commit": "2026-07-22T19:42:19Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28327
+            "stars": 28331
           }
         },
         {
@@ -765,10 +765,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:38:47Z",
+            "last_commit": "2026-08-18T21:35:40Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26248
+            "stars": 26274
           }
         },
         {
@@ -933,10 +933,10 @@
           "repo_info": {
             "archived": false,
             "language": "ReScript",
-            "last_commit": "2026-08-17T18:24:01Z",
+            "last_commit": "2026-08-18T20:24:01Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 662
+            "stars": 663
           }
         },
         {
@@ -1223,10 +1223,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:17:16Z",
+            "last_commit": "2026-08-18T05:50:01Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121509
+            "stars": 121591
           }
         },
         {
@@ -1240,7 +1240,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19283
+            "stars": 19284
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "last_commit": "2026-08-15T10:39:03Z",
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 1425
+            "stars": 1428
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-07-22T19:31:43Z",
             "owner": "codelitdev",
             "repo": "courselit",
-            "stars": 1254
+            "stars": 1255
           }
         },
         {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:36:43.052Z",
+    "last_updated": "2026-08-18T21:35:51.914Z",
     "original_repository": "unicodeveloper/awesome-nextjs",
     "original_repository_sha": "1cdcd362600da21feb8f1fe5f08ec0dd96d902ca",
     "enhanced_repository": "enhansome/enhansome-nextjs",
