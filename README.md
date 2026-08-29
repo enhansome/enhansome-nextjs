@@ -1,12 +1,12 @@
 # Awesome Next.js with stars
 
-[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js) ⭐ 141,980 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
+[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js) ⭐ 142,012 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js](https://github.com/vercel/next.js) ⭐ 141,980 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29: The React Framework.
+[Next.js](https://github.com/vercel/next.js) ⭐ 142,012 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29: The React Framework.
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 814 | 🐛 3 | 📅 2022-01-29.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,151 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 814 | 🐛 3 | 📅 2022-01-29.*
 
 ## Contents
 
@@ -28,8 +28,8 @@
 
 ## Community
 
-* [GitHub](https://github.com/vercel/next.js) ⭐ 141,980 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
-* [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions) ⭐ 141,980 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
+* [GitHub](https://github.com/vercel/next.js) ⭐ 142,012 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
+* [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions) ⭐ 142,012 | 🐛 3,638 | 🌐 JavaScript | 📅 2026-08-29
 * [Vercel Community](https://vercel.community/)
 
 ## Essentials
@@ -84,7 +84,7 @@
 
 ## Boilerplates
 
-* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) ⭐ 32,104 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19 - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) ⭐ 32,107 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19 - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 * [Next.js Enterprise](https://github.com/Blazity/next-enterprise) ⭐ 7,450 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-26 - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 * [Nextron](https://github.com/saltyshiomix/nextron) ⭐ 4,429 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-21 - An Electron with Next.js apps generator ⚡
 * [superplate](https://github.com/pankod/superplate) ⭐ 2,897 | 🐛 26 | 🌐 TypeScript | 📅 2025-08-28 - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
@@ -141,12 +141,12 @@
 
 ## Extensions
 
-* [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,094 | 🐛 365 | 🌐 TypeScript | 📅 2026-08-29 - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
-* [next-auth](https://github.com/iaincollins/next-auth) ⭐ 28,350 | 🐛 598 | 🌐 TypeScript | 📅 2026-07-22 - Easy authentication for Next.js and Serverless
-* [Vercel AI SDK](https://github.com/vercel/ai) ⭐ 26,477 | 🐛 1,672 | 🌐 TypeScript | 📅 2026-08-29 - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
-* [Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,509 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29 - SEO made easy for Next.js
+* [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,106 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-29 - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+* [next-auth](https://github.com/iaincollins/next-auth) ⭐ 28,351 | 🐛 598 | 🌐 TypeScript | 📅 2026-07-22 - Easy authentication for Next.js and Serverless
+* [Vercel AI SDK](https://github.com/vercel/ai) ⭐ 26,490 | 🐛 1,695 | 🌐 TypeScript | 📅 2026-08-29 - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
+* [Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,510 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29 - SEO made easy for Next.js
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) ⚠️ Archived - Deploy serverless applications with ease.
-* [next-iron-session](https://github.com/vvo/next-iron-session) ⭐ 4,139 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-23 - Next.js stateless session utility using signed and encrypted cookies to store data
+* [next-iron-session](https://github.com/vvo/next-iron-session) ⭐ 4,139 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-29 - Next.js stateless session utility using signed and encrypted cookies to store data
 * [Next PWA](https://github.com/shadowwalker/next-pwa) ⭐ 4,089 | 🐛 138 | 🌐 JavaScript | 📅 2024-07-27 - Zero config PWA plugin for Next.js with workbox
 * [Next-Sitemap](https://github.com/iamvishnusankar/next-sitemap) ⭐ 3,745 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-13 - Sitemap generator for Next.js
 * [Next Routes](https://github.com/fridays/next-routes) ⭐ 2,460 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-06 - Universal named routes for Next.js.
@@ -155,10 +155,10 @@
 * [next-transpile-modules](https://github.com/martpie/next-transpile-modules) ⚠️ Archived - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
 * [Nextein](https://github.com/elmasse/nextein) ⚠️ Archived - A static site generator based in Next.js.
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) ⭐ 762 | 🐛 46 | 🌐 TypeScript | 📅 2024-02-24 - Apollo Graphql integration for Next.js
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 681 | 🐛 242 | 🌐 ReScript | 📅 2026-08-28 - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 681 | 🐛 244 | 🌐 ReScript | 📅 2026-08-29 - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 * [next-api-decorators](https://github.com/storyofams/next-api-decorators) ⭐ 428 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-05 - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 * [next-session](https://github.com/hoangvvo/next-session) ⭐ 358 | 🐛 27 | 🌐 TypeScript | 📅 2024-05-23 - Session middleware for Next.js
-* [next-img](https://github.com/humaans/next-img/) ⭐ 276 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-17 - a plugin for embedding optimized images with ease.
+* [next-img](https://github.com/humaans/next-img/) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-17 - a plugin for embedding optimized images with ease.
 * [Next PurgeCSS](https://github.com/lucleray/next-purgecss) ⭐ 136 | 🐛 8 | 🌐 JavaScript | 📅 2020-03-24 - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 * [next-joi](https://github.com/codecoolture/next-joi) ⚠️ Archived - Validate Next.js API Routes, with *joi*.
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2020-04-23 - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
@@ -182,9 +182,9 @@
 
 ## Apps
 
-* [shadcn/ui](https://github.com/shadcn/ui) ⭐ 122,446 | 🐛 2,237 | 🌐 TypeScript | 📅 2026-08-26 - Beautifully designed components that you can copy and paste into your apps.
-* [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,289 | 🐛 218 | 🌐 TypeScript | 📅 2026-04-20 - An example app built using Next.js 13 server components.
-* [FIM Agent](https://github.com/fim-ai/fim-agent) ⭐ 1,459 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+* [shadcn/ui](https://github.com/shadcn/ui) ⭐ 122,514 | 🐛 2,265 | 🌐 TypeScript | 📅 2026-08-26 - Beautifully designed components that you can copy and paste into your apps.
+* [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,288 | 🐛 218 | 🌐 TypeScript | 📅 2026-04-20 - An example app built using Next.js 13 server components.
+* [FIM Agent](https://github.com/fim-ai/fim-agent) ⭐ 1,461 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 * [Rauchg Blog](https://github.com/rauchg/blog) ⭐ 1,425 | 🐛 14 | 🌐 MDX | 📅 2026-06-10 - Blog built by a Next.js core maintainer.
 * [Dashboard](https://github.com/danielbayerlein/dashboard) ⭐ 1,340 | 🐛 23 | 🌐 JavaScript | 📅 2023-05-03 - Create your own team dashboard with custom widgets.
 * [CourseLit](https://github.com/codelit/courselit) ⭐ 1,260 | 🐛 251 | 🌐 TypeScript | 📅 2026-07-22 - An open source alternative to Thinkific, Teachable etc.
@@ -210,8 +210,8 @@
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-24 - Converts trello data into fast read information.
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-26 - Cookie handler with server render, access the cookie before render.
 * [Jet Chat](https://github.com/lipp/jet-chat) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2017-02-23 - Jet and Next.js powered Chat demo.
+* [DevScratchpad](https://github.com/Saad-web-spec/DevScratchPad) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-29 - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 * [FileFlex](https://github.com/armor229-ux/File-Flex) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
-* [DevScratchpad](https://github.com/Saad-web-spec/DevScratchPad) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28 - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 * [DevToolKit](https://github.com/a827681306/devtoolkit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-24 - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 * [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 * [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
