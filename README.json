@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:01:10Z",
-            "open_issues": 3468,
+            "last_commit": "2026-09-22T23:27:27Z",
+            "open_issues": 3470,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142395,
+            "stars": 142406,
             "topics": [
               "blog",
               "browser",
@@ -51,11 +51,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:01:10Z",
-            "open_issues": 3468,
+            "last_commit": "2026-09-22T23:27:27Z",
+            "open_issues": 3470,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142395,
+            "stars": 142406,
             "topics": [
               "blog",
               "browser",
@@ -97,7 +97,7 @@
             "open_issues": 2373,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32119,
+            "stars": 32118,
             "topics": [
               "access-control",
               "api",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7463,
+            "stars": 7464,
             "topics": [
               "boilerplate",
               "chatgpt",
@@ -176,7 +176,7 @@
             "open_issues": 113,
             "owner": "saltyshiomix",
             "repo": "nextron",
-            "stars": 4432,
+            "stars": 4431,
             "topics": [
               "electron",
               "nextjs",
@@ -204,7 +204,7 @@
             "open_issues": 26,
             "owner": "pankod",
             "repo": "superplate",
-            "stars": 2896,
+            "stars": 2897,
             "topics": [
               "best-practices",
               "boilerplate",
@@ -264,8 +264,8 @@
             "id": 227635919,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:03:59Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-22T15:16:32Z",
+            "open_issues": 22,
             "owner": "BearStudio",
             "repo": "start-ui-web",
             "stars": 1745,
@@ -1454,36 +1454,6 @@
         },
         {
           "node_type": "item",
-          "title": "Ultimate Blog Editor",
-          "description": "An open-source Markdown and Lexical-based blog editor with Supabase sync, MDX rendering, draft/post and media management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The editor that I am using to write my technical articles, glad to share the advanced capabilities of it with everyone. ",
-            "homepage": null,
-            "id": 1343894733,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-18T02:41:11Z",
-            "open_issues": 0,
-            "owner": "Masculinn",
-            "repo": "blog-editor",
-            "stars": 3,
-            "topics": [
-              "cloud",
-              "lexical-editor",
-              "markdown-editor",
-              "mdx-blog",
-              "nextjs",
-              "reactjs",
-              "supabase",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-09-22T00:03:25.853Z"
-        },
-        {
-          "node_type": "item",
           "title": "Kaiforge Lite",
           "description": "Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. Demo",
           "children": [],
@@ -1570,11 +1540,11 @@
             "id": 655515393,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T23:55:25Z",
-            "open_issues": 275,
+            "last_commit": "2026-09-22T23:11:17Z",
+            "open_issues": 281,
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 37454,
+            "stars": 37479,
             "topics": [
               "agent",
               "agent-native",
@@ -1613,10 +1583,10 @@
             "language": "TypeScript",
             "license": "ISC",
             "last_commit": "2026-07-22T19:42:19Z",
-            "open_issues": 602,
+            "open_issues": 603,
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28369,
+            "stars": 28373,
             "topics": [
               "auth",
               "authentication",
@@ -1652,11 +1622,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T23:33:29Z",
-            "open_issues": 1470,
+            "last_commit": "2026-09-22T23:17:08Z",
+            "open_issues": 1487,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26877,
+            "stars": 26901,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -1693,7 +1663,7 @@
             "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8514,
+            "stars": 8515,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -1722,7 +1692,7 @@
             "open_issues": 313,
             "owner": "serverless-nextjs",
             "repo": "serverless-next.js",
-            "stars": 4458,
+            "stars": 4459,
             "topics": [
               "api-gateway",
               "aws",
@@ -1755,7 +1725,7 @@
             "open_issues": 1,
             "owner": "vvo",
             "repo": "iron-session",
-            "stars": 4144,
+            "stars": 4145,
             "topics": [
               "authentication",
               "cookies",
@@ -1815,7 +1785,7 @@
             "open_issues": 8,
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3747,
+            "stars": 3744,
             "topics": [
               "next-sitemap",
               "nextjs",
@@ -2007,7 +1977,7 @@
             "open_issues": 247,
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 703,
+            "stars": 705,
             "topics": [
               "agent",
               "ai",
@@ -2561,10 +2531,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-21T09:05:58Z",
-            "open_issues": 1840,
+            "open_issues": 1837,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 124330,
+            "stars": 124426,
             "topics": [
               "base-ui",
               "components",
@@ -2599,7 +2569,7 @@
             "open_issues": 218,
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19290,
+            "stars": 19292,
             "topics": [
               "nextauthjs",
               "nextjs",
@@ -2628,7 +2598,7 @@
             "open_issues": 1,
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 1529,
+            "stars": 1531,
             "topics": [
               "ai",
               "ai-agent",
@@ -2883,7 +2853,7 @@
             "id": 89900878,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-07-17T21:33:24Z",
+            "last_commit": "2026-09-22T05:36:33Z",
             "open_issues": 2,
             "owner": "dawsbot",
             "repo": "mailto",
@@ -2933,48 +2903,6 @@
             ]
           },
           "first_seen": "2026-08-28T05:21:04.154Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Reely",
-          "description": "Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reely — a fast, installable (PWA) movie & TV platform to discover, track & stream films and series. Deep live-applying filters, command-palette search, rich detail pages, watchlist & watch history — powered by TMDB, on Next.js 16 + React 19, shipped as a static export on Cloudflare Workers Static Assets.",
-            "homepage": "https://www.reely.space",
-            "id": 686083708,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-19T16:02:25Z",
-            "open_issues": 74,
-            "owner": "Vette1123",
-            "repo": "movies-streaming-platform",
-            "stars": 171,
-            "topics": [
-              "cloudflare",
-              "cloudflare-workers",
-              "framer-motion",
-              "movies",
-              "nextjs",
-              "posthog",
-              "progressive-web-app",
-              "pwa",
-              "radix-ui",
-              "react",
-              "react-19",
-              "react-query",
-              "service-worker",
-              "shadcn-ui",
-              "static-site",
-              "streaming",
-              "tailwindcss",
-              "tmdb",
-              "tv-shows",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-09-01T23:16:35.570Z"
         },
         {
           "node_type": "item",
@@ -3360,69 +3288,6 @@
         },
         {
           "node_type": "item",
-          "title": "DevScratchpad",
-          "description": "Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://devscratchpad.tech",
-            "id": 1347195570,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-20T13:32:22Z",
-            "open_issues": 2,
-            "owner": "Saad-web-spec",
-            "repo": "DevScratchPad",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:04.154Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AI Video Prompt Cheatsheet",
-          "description": "Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI 视频运镜提示词速查表 — 25 个运镜案例视频 + 大白话教学 + 一键复制（视觉优先）",
-            "homepage": null,
-            "id": 1341369273,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-09-12T22:40:06Z",
-            "open_issues": 0,
-            "owner": "the-beating-light-of-the-nail",
-            "repo": "ai-video-prompt-cheatsheet",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-09-10T23:07:35.815Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FileFlex",
-          "description": "Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://fileflexhub.vercel.app",
-            "id": 1274427052,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-08-24T19:05:02Z",
-            "open_issues": 0,
-            "owner": "armor229-ux",
-            "repo": "File-Flex",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:04.154Z"
-        },
-        {
-          "node_type": "item",
           "title": "DevToolKit",
           "description": "Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.",
           "children": [],
@@ -3460,7 +3325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:03:25.853Z",
+    "last_updated": "2026-09-22T23:35:13.642Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
@@ -3468,7 +3333,7 @@
       "id": 75291705,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-21T07:35:23Z",
+      "last_commit": "2026-09-22T07:49:57Z",
       "open_issues": 273,
       "owner": "unicodeveloper",
       "repo": "awesome-nextjs",
@@ -3486,7 +3351,7 @@
         "universal"
       ]
     },
-    "original_repository_sha": "c933f8509611e37da3488ed4640b8d0abcfea944",
+    "original_repository_sha": "e695d9896a71a22ed79133f72ca9f15e5b27dddc",
     "enhanced_repository": "enhansome/enhansome-nextjs",
     "enhanced_repository_description": null,
     "title": "Awesome Next.js with stars"
