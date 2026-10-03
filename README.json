@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "vercel/next.js",
-          "description": null,
+          "description": "vercel/next.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:21:18Z",
-            "open_issues": 3527,
+            "last_commit": "2026-10-03T04:40:43Z",
+            "open_issues": 3532,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143004,
+            "stars": 143020,
             "topics": [
               "blog",
               "browser",
@@ -42,7 +42,7 @@
         {
           "node_type": "item",
           "title": "GitHub discussions for Next.js",
-          "description": null,
+          "description": "vercel/next.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,11 +51,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:21:18Z",
-            "open_issues": 3527,
+            "last_commit": "2026-10-03T04:40:43Z",
+            "open_issues": 3532,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143004,
+            "stars": 143020,
             "topics": [
               "blog",
               "browser",
@@ -820,7 +820,7 @@
         {
           "node_type": "item",
           "title": "NextJS Headless CMS Powered Blog Starter",
-          "description": null,
+          "description": "ButterCMS/react-cms-blog-with-next-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1540,11 +1540,11 @@
             "id": 655515393,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:01:37Z",
+            "last_commit": "2026-10-03T01:10:36Z",
             "open_issues": 276,
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 37682,
+            "stars": 37686,
             "topics": [
               "agent",
               "agent-native",
@@ -1622,11 +1622,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T23:32:39Z",
-            "open_issues": 1415,
+            "last_commit": "2026-10-03T04:19:29Z",
+            "open_issues": 1377,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 27088,
+            "stars": 27092,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -2534,7 +2534,7 @@
             "open_issues": 1817,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125002,
+            "stars": 125010,
             "topics": [
               "base-ui",
               "components",
@@ -2598,7 +2598,7 @@
             "open_issues": 1,
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 1556,
+            "stars": 1557,
             "topics": [
               "ai",
               "ai-agent",
@@ -2819,7 +2819,7 @@
             "id": 226175035,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T19:04:17Z",
+            "last_commit": "2026-10-03T04:56:48Z",
             "open_issues": 5,
             "owner": "kachkaev",
             "repo": "njt",
@@ -3135,7 +3135,7 @@
         {
           "node_type": "item",
           "title": "Decoupled CMS example with GraphQL and Next.js",
-          "description": null,
+          "description": "janit/decoupled-cms-nextjs-graphql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3325,7 +3325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:26:33.550Z",
+    "last_updated": "2026-10-03T04:57:26.980Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
