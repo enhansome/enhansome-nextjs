@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:04:22Z",
-            "open_issues": 3640,
+            "last_commit": "2026-10-14T00:06:14Z",
+            "open_issues": 3661,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143149,
+            "stars": 143216,
             "topics": [
               "blog",
               "browser",
@@ -51,11 +51,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:04:22Z",
-            "open_issues": 3640,
+            "last_commit": "2026-10-14T00:06:14Z",
+            "open_issues": 3661,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143149,
+            "stars": 143216,
             "topics": [
               "blog",
               "browser",
@@ -97,7 +97,7 @@
             "open_issues": 2368,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32130,
+            "stars": 32133,
             "topics": [
               "access-control",
               "api",
@@ -130,11 +130,11 @@
             "id": 630874227,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T01:26:39Z",
+            "last_commit": "2026-10-13T11:28:54Z",
             "open_issues": 26,
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7460,
+            "stars": 7458,
             "topics": [
               "boilerplate",
               "chatgpt",
@@ -234,7 +234,7 @@
             "open_issues": 89,
             "owner": "Sly777",
             "repo": "ran",
-            "stars": 2204,
+            "stars": 2206,
             "topics": [
               "apollo",
               "boilerplate",
@@ -265,7 +265,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-06T07:24:31Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "BearStudio",
             "repo": "start-ui-web",
             "stars": 1750,
@@ -310,7 +310,7 @@
             "open_issues": 38,
             "owner": "pankod",
             "repo": "next-boilerplate",
-            "stars": 1612,
+            "stars": 1611,
             "topics": [
               "babel",
               "boilerplate",
@@ -342,7 +342,7 @@
             "open_issues": 23,
             "owner": "hoangvvo",
             "repo": "nextjs-mongodb-app",
-            "stars": 1559,
+            "stars": 1560,
             "topics": [
               "boilerplate",
               "full-stack",
@@ -739,7 +739,7 @@
             "id": 140396824,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-05T20:27:31Z",
+            "last_commit": "2026-10-13T15:29:05Z",
             "open_issues": 26,
             "owner": "williamluke4",
             "repo": "Nitro",
@@ -1540,11 +1540,11 @@
             "id": 655515393,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T02:21:33Z",
-            "open_issues": 310,
+            "last_commit": "2026-10-13T23:50:18Z",
+            "open_issues": 316,
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 37973,
+            "stars": 38003,
             "topics": [
               "agent",
               "agent-native",
@@ -1622,11 +1622,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T02:28:51Z",
-            "open_issues": 1897,
+            "last_commit": "2026-10-13T23:41:37Z",
+            "open_issues": 1353,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 27281,
+            "stars": 27302,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -1785,7 +1785,7 @@
             "open_issues": 8,
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3745,
+            "stars": 3744,
             "topics": [
               "next-sitemap",
               "nextjs",
@@ -1928,7 +1928,7 @@
             "open_issues": 3,
             "owner": "elmasse",
             "repo": "nextein",
-            "stars": 886,
+            "stars": 887,
             "topics": [
               "blog-engine",
               "frontmatter",
@@ -2456,6 +2456,27 @@
         },
         {
           "node_type": "item",
+          "title": "next-i18next",
+          "description": "The easiest way to translate your NextJs apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The easiest way to translate your NextJs apps.",
+            "homepage": "https://next.i18next.com",
+            "id": 1168292203,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-02-27T12:06:07Z",
+            "open_issues": 0,
+            "owner": "isaachinman",
+            "repo": "next-i18next",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:21:04.154Z"
+        },
+        {
+          "node_type": "item",
           "title": "modal-layout-component",
           "description": "Lightweight and accessible headless modal layout for Next.js with focus trapping.",
           "children": [],
@@ -2490,27 +2511,6 @@
             ]
           },
           "first_seen": "2026-08-28T05:21:04.154Z"
-        },
-        {
-          "node_type": "item",
-          "title": "next-i18next",
-          "description": "The easiest way to translate your NextJs apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The easiest way to translate your NextJs apps.",
-            "homepage": "https://next.i18next.com",
-            "id": 1168292203,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-02-27T12:06:07Z",
-            "open_issues": 0,
-            "owner": "isaachinman",
-            "repo": "next-i18next",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:04.154Z"
         }
       ],
       "title": "Extensions"
@@ -2530,11 +2530,11 @@
             "id": 585146387,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T17:45:44Z",
-            "open_issues": 1787,
+            "last_commit": "2026-10-13T18:51:14Z",
+            "open_issues": 1795,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125447,
+            "stars": 125532,
             "topics": [
               "ai",
               "base-ui",
@@ -2602,7 +2602,7 @@
             "open_issues": 1,
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 1584,
+            "stars": 1585,
             "topics": [
               "ai",
               "ai-agent",
@@ -2692,7 +2692,7 @@
             "open_issues": 252,
             "owner": "codelitdev",
             "repo": "courselit",
-            "stars": 1275,
+            "stars": 1274,
             "topics": [
               "blog",
               "cms",
@@ -3336,7 +3336,7 @@
             "id": 1415506516,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:34:51Z",
+            "last_commit": "2026-10-14T00:12:06Z",
             "open_issues": 0,
             "owner": "loootai",
             "repo": "looot-network",
@@ -3368,7 +3368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:33:17.500Z",
+    "last_updated": "2026-10-14T00:16:02.035Z",
     "original_repository_info": {
       "archived": false,
       "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
@@ -3376,11 +3376,11 @@
       "id": 75291705,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-12T22:53:36Z",
-      "open_issues": 306,
+      "last_commit": "2026-10-13T16:02:57Z",
+      "open_issues": 308,
       "owner": "unicodeveloper",
       "repo": "awesome-nextjs",
-      "stars": 11103,
+      "stars": 11104,
       "topics": [
         "awesome-list",
         "framework",
@@ -3394,7 +3394,7 @@
         "universal"
       ]
     },
-    "original_repository_sha": "76ef4d01b1385d8b33e215c368745be07ca9cf7c",
+    "original_repository_sha": "112ae4b9b9d43910dd067486664f5d8d9c1758e7",
     "enhanced_repository": "enhansome/enhansome-nextjs",
     "enhanced_repository_description": null,
     "title": "Awesome Next.js with stars"
